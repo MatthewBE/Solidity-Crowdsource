@@ -1,3 +1,5 @@
+![example workflow](https://github.com/MatthewBE/Solidity-Crowdsource/actions/workflows/test.yml/badge.svg)
+
 
 # About the FundME Contract
 
